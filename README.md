@@ -24,7 +24,3 @@ Run the single test and see how the trace screenshot doesn't match what the page
 
 ![actual](./actual.png)
 
-### Another trace image
-
-![actual](./actual-2.png)
-
