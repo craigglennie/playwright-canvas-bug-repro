@@ -2,9 +2,13 @@
 
 ### How to run
 
-```
+```bash
 npm install
 npm run serve
+```
+
+In another terminal
+```bash
 npm run playwright
 ```
 
